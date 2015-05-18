@@ -8,7 +8,7 @@ la cual afecta la temperatura del planeta).
 En el planeta existen dos tipos de margaritas: negras y blancas. Las primeras absorben luz, las blancas la reflejan. 
 La temperatura global del planeta (que depende de la luminosidad de la estrella) afecta como se reproducen estas especies.
 
-En el archivo `daisyworld_original.ipynb` se encuentra la simulación original: un mundo con dos especies de margaritas con diferentes albedos (proporciones de luz reflejada). Además, se incluyen un método que modela el mundo con condiciones aleatorias y uno interactivo, en el que se pueden modificar arbitrariamente las condiciones iniciales del sistema.
+En el archivo `daisyworld_original.ipynb` se encuentra la simulación original: un mundo con dos especies de margaritas con diferentes albedos (proporciones de luz reflejada). Además, se incluyen un método que modela el mundo con condiciones iniciales aleatorias y uno interactivo, en el que se pueden modificar arbitrariamente las condiciones iniciales del sistema.
 
 También se realizó un modelo que considera una tercera especie de margaritas grises (`cheats`), e incluye, además de un 
 método interactivo, la animación del desarrollo del mundo de manera espacial. Éste se encuentra en el notebook `daisyworld_cheats.ipynb`.
