@@ -7,7 +7,7 @@ la cual afecta la temperatura del planeta). En el planeta existen dos tipos de m
 
 Para reproducir esta simulación, nos basamos en los modelos matemáticos del proyecto *Daisyworld modeling and feedback mechanisms* (Wittwer, 2005), publicado por la Universidad de Australia Occidental (UWA). 
 
-En el archivo `daisyworld_original.ipynb` se encuentra la simulación original: un mundo con dos especies de margaritas con diferentes albedos (proporciones de luz reflejada). Además, se incluyen un método que modela el mundo con condiciones iniciales aleatorias y una animación del desarrollo del mundo de manera espacial.
+En el archivo `daisyworld_original.ipynb` se encuentra la simulación original: un mundo con dos especies de margaritas con diferentes albedos (proporciones de luz reflejada). Además se incluye un método que modela el mundo con condiciones iniciales aleatorias.
 
 También se realizó un modelo que considera una tercera especie de margaritas grises (`cheats`), e incluye, además de un 
 método que modela con condiciones iniciales aleatorias y el modelo espacial,un metodo interactivo en el que se pueden modificar arbitrariamente las condiciones iniciales del sistema. Éste se encuentra en el notebook `daisyworld_cheats.ipynb`.
