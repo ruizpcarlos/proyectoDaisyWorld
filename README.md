@@ -5,7 +5,7 @@ por computadora de Daisyworld. Este proyecto pretende replicar el experimento, q
 de una estrella durante todo el periodo de vida de ésta (las estrellas al evolucionar van cambiando su emisión de radiación
 la cual afecta la temperatura del planeta). En el planeta existen dos tipos de margaritas: negras y blancas. Las primeras absorben luz, las blancas la reflejan. La temperatura global del planeta (que depende de la luminosidad de la estrella) afecta como se reproducen estas especies.
 
-Para reproducir esta simulación, nos basamos en los modelos matemáticos del proyecto *Daisyworld modeling and feedback mechanisms* (Wittwer, 2005), publicado por la Universidad de Australia Occidental (UWA). 
+Para reproducir esta simulación, nos basamos en los modelos matemáticos del proyecto *[Daisyworld modeling and feedback mechanisms](http://www.uwa.edu.au/__data/assets/pdf_file/0006/1637367/Wittwer_2005.pdf)* (Wittwer, 2005), publicado por la Universidad de Australia Occidental (UWA). 
 
 En el archivo `daisyworld_original.ipynb` se encuentra la simulación original: un mundo con dos especies de margaritas con diferentes albedos (proporciones de luz reflejada). Además se incluye un método que modela el mundo con condiciones iniciales aleatorias.
 
